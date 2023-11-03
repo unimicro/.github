@@ -3,14 +3,3 @@
 You have reached the Github page for Uni Micro AS
 
 If you are interested in knowing more about us, you are welcome to visit our [website](https://unimicro.no)
-
-## Our main products
-
-(Click on the images to learn more)
-
-<a href="https://softrig.com/" target="_blank" rel="nofollow"> <img src="https://raw.github.com/unimicro/.github/develop/images/softrig_logo.svg" alt="Softrig" /></a>
-
-<a href="https://info.unieconomy.no/" target="_blank" rel="nofollow"> <img src="https://raw.github.com/unimicro/.github/develop/images/unieconomy_logo.svg" alt="Uni Economy" /></a> 
-
-<a href="https://uniokonomi.no/" target="_blank" rel="nofollow"> <img src="https://raw.github.com/unimicro/.github/develop/images/v3_logo.svg" alt="Uni Økonomi V3" /></a>
-
